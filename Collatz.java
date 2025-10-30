@@ -14,4 +14,7 @@ public class Collatz {
         // ✅ 4. Mostrar la seqüència amb while
 
         // ✅ 5. Mostrar el numero total de passos
+    }
+
+} 
 
